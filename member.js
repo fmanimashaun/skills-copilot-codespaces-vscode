@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   this.name = 'skillMember';
   this.skill = 'JS';
   this.getMember = function() {
